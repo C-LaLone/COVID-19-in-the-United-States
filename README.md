@@ -1,1 +1,3 @@
 # COVID-19-in-the-United-States
+
+# Over the past few months, I have been in a data science program at UCLA. For our final project, we were tasked with running an analysis on the topic of our choice. Since COVID-19 has been the most important topic in the United States over the past year, I figured it would be a good topic to analyze. I wanted to study the effects the virus had on different parts of the country. I wanted to study the factors that contributed to the spread of this virus on the county level through out the United States, and use these findings to come up with ways that might be able to help bring an end to this pandemic and prevent future pandemics.
